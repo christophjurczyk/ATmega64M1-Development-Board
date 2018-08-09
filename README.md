@@ -1,7 +1,7 @@
 # ATmega64M1-Development-Board (Arduino-Compatible)
 <img src="/pcb_render/ATmega64M1_Dev_Board_top.png" alt="pcb" width="500px"/>
 
-This projects brings an Arduino-compatible development board for the Atmel ATmega64M1 microcontroller. The ATmega64M1 is 8-bit AVR RISC-based microcontroller and with the CAN capabilities widely used in the automotive industry.
+This projects brings an Arduino-compatible development board for the Atmel ATmega64M1 microcontroller. The ATmega64M1 is an 8-bit AVR RISC-based microcontroller and with the CAN capabilities widely used in the automotive industry.
 
 The microcontroller has some additional features to the widely-used Arduino UNO:
 - CAN interface
