@@ -276,7 +276,7 @@ License v3 (LGPL-3.0)</text>
 <text x="25.4" y="21.59" size="1.27" layer="25" rot="R90" align="center-right">3.3V</text>
 <wire x1="81.28" y1="46.355" x2="83.82" y2="46.99" width="0.3048" layer="21"/>
 <text x="96.52" y="27.94" size="1.4224" layer="26" rot="MR270" align="bottom-center">For power over CAN close SJ4
-and switch Jumpter to VCAN</text>
+and switch Jumper to VCAN</text>
 </plain>
 <libraries>
 <library name="con-subd" urn="urn:adsk.eagle:library:189">
