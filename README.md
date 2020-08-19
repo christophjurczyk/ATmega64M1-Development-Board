@@ -10,6 +10,7 @@ The microcontroller has some additional features to the widely-used Arduino UNO:
 
 With the help of ATmegaxxM1-C1 Arduino Core of thomasonw (https://github.com/thomasonw/ATmegaxxM1-C1) it is possible to work with the Arduino environment on this board. But you are also able to program the board directly via an ICSP and a dedicated programmer.
 
+
 ## Notes
 ### CAN Interface
 The CAN interface can be handled by two CAN transceivers. You can choose between an isolated (ADM3053) and a non-isolated (MCP2562) CAN transceiver. If you are using the ADM3053, you have to equip the board with R6 and C12 to C15. C5 to C8 are mandatory for both configurations.
@@ -20,3 +21,6 @@ If you are using the CAN interface as power provision, you have to close the sol
 
 ### Logic Level
 You can run the controller with 5V or 3.3V. You can configure this via the jumper JP4 next to the DC-Jack.
+
+## Stuff you'll need to buy, mount and reflow:
+[billofmaterials.md)
