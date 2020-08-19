@@ -23,4 +23,4 @@ If you are using the CAN interface as power provision, you have to close the sol
 You can run the controller with 5V or 3.3V. You can configure this via the jumper JP4 next to the DC-Jack.
 
 ## Stuff you'll need to buy, mount and reflow:
-[billofmaterials.md]
+[bill of materials](billofmaterials.md)
