@@ -58,7 +58,7 @@ Per Unit in non-isolated can bus (MCP2562 config)
 * 6x surface jumpers  sj1,sj2,sj3,sj4,sj5
 * 1x smd fuse 1206 f1
 
-### optional isolated can bus ADM3053
+### Optional isolated can bus ADM3053
 2x smd 1206 / 3216 polar 10uf  C12,c15						
 2x smd 0805 / 2012 non-polar 100uf  c13,14   
 1x 47k 0805 resistor r6
