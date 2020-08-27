@@ -23,7 +23,7 @@ If you are using the CAN interface as power provision, you have to close the sol
 You can run the controller with 5V or 3.3V. You can configure this via the jumper JP4 next to the DC-Jack.
 
 # Bill of Materials (Thanks to @elasticdotventures)
-## Per Unit in non-isolated can bus (MCP2562 config)
+Per Unit in non-isolated can bus (MCP2562 config)
 
 ### Chips:
 * 1x ATMEGA64M1 IC11
