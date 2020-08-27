@@ -1,6 +1,6 @@
 
 #########################################################
-# Bill of Materials 
+# Bill of Materials (Thanks to @elasticdotventures)
 # Per Unit in non-isolated can bus (MCP2562 config)
 
 ## Chips:
